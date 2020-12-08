@@ -86,7 +86,7 @@
   var __BLOG_CONFIG__ = window.__BLOG_CONFIG__ || {};
   var staticSrc = __BLOG_CONFIG__.staticSrc || "https://yumaster.gitee.io/atum/code";
   var staticVer = __BLOG_CONFIG__.staticVer || "";
-  var staticIco = __BLOG_CONFIG__.staticIco || "https://cjunn.gitee.io/c_cnblog_vue/img/body/miao.ico";
+  var staticIco = __BLOG_CONFIG__.staticIco || "https://yumaster.gitee.io/atum/img/body/miao.ico";
   var extCss = __BLOG_CONFIG__.extCss || [];
   var extJs = __BLOG_CONFIG__.extJs || [];
   var staticPath = staticSrc + staticVer + "/";
